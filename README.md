@@ -177,15 +177,15 @@ streamlit run app.py
 
 ## Dashboard
 
-(Add dashboard screenshot here)
+![Dashboard](assets/dashboard.png)
 
 ## ATS Analytics
 
-(Add analytics screenshot here)
+![Analytics](assets/analytics.png)
 
 ## AI Resume Rewriter
 
-(Add rewriter screenshot here)
+![Rewriter](assets/rewriter.png)
 
 ---
 
