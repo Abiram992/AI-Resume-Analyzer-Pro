@@ -1,0 +1,69 @@
+We are looking for a Full Stack Developer with experience in React, Node.js, MongoDB, and Express.js.
+
+Requirements:
+- Strong knowledge of JavaScript and TypeScript
+- Experience with REST APIs
+- Familiarity with Git and GitHub
+- Experience deploying applications using Docker
+- Good problem-solving skills
+- Knowledge of cloud platforms like AWS is a plus
+
+Responsibilities:
+- Build scalable web applications
+- Develop frontend UI using React
+- Create backend APIs using Node.js
+- Work with databases like MongoDB
+- Collaborate with cross-functional teams
+
+
+
+We are hiring an AI/ML Engineer with expertise in Machine Learning, NLP, and Deep Learning.
+
+Requirements:
+- Strong Python programming
+- Experience with TensorFlow or PyTorch
+- Knowledge of NLP and Transformers
+- Familiarity with pandas, numpy, and scikit-learn
+- Experience building AI models
+- Knowledge of cloud AI deployment is a plus
+
+Responsibilities:
+- Build and train ML models
+- Develop NLP applications
+- Optimize model performance
+- Work with large datasets
+- Collaborate with AI research teams
+
+
+We are seeking a Data Analyst Intern who can analyze data and create business insights.
+
+Requirements:
+- Knowledge of SQL and Excel
+- Experience with Power BI or Tableau
+- Basic Python knowledge
+- Strong analytical thinking
+- Good communication skills
+
+Responsibilities:
+- Analyze datasets
+- Create dashboards
+- Generate reports
+- Identify trends and insights
+- Support business decisions
+
+
+
+We are looking for a Cloud Engineer experienced in AWS and DevOps practices.
+
+Requirements:
+- Experience with AWS services
+- Knowledge of Docker and Kubernetes
+- Familiarity with CI/CD pipelines
+- Linux administration skills
+- Infrastructure automation experience
+
+Responsibilities:
+- Manage cloud infrastructure
+- Automate deployments
+- Monitor applications
+- Improve scalability and security

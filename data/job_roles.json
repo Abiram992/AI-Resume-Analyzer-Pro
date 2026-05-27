@@ -1,0 +1,56 @@
+{
+    "Frontend Developer": [
+        "html",
+        "css",
+        "javascript",
+        "react",
+        "tailwind",
+        "nextjs"
+    ],
+
+    "Backend Developer": [
+        "python",
+        "django",
+        "flask",
+        "nodejs",
+        "express",
+        "mysql",
+        "mongodb"
+    ],
+
+    "Full Stack Developer": [
+        "html",
+        "css",
+        "javascript",
+        "react",
+        "nodejs",
+        "mongodb",
+        "mysql"
+    ],
+
+    "Data Scientist": [
+        "python",
+        "machine learning",
+        "pandas",
+        "numpy",
+        "tensorflow",
+        "scikit-learn"
+    ],
+
+    "AI Engineer": [
+        "python",
+        "deep learning",
+        "nlp",
+        "tensorflow",
+        "pytorch",
+        "computer vision"
+    ],
+
+    "Cloud Engineer": [
+        "aws",
+        "azure",
+        "docker",
+        "kubernetes",
+        "terraform"
+    ]
+}

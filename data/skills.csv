@@ -1,0 +1,36 @@
+skill,category
+Python,Programming
+Java,Programming
+C++,Programming
+JavaScript,Programming
+TypeScript,Programming
+HTML,Web Development
+CSS,Web Development
+React,Web Development
+NextJS,Web Development
+NodeJS,Backend
+Express,Backend
+Django,Backend
+Flask,Backend
+MySQL,Database
+MongoDB,Database
+PostgreSQL,Database
+Firebase,Database
+Machine Learning,AI/ML
+Deep Learning,AI/ML
+TensorFlow,AI/ML
+PyTorch,AI/ML
+NLP,AI/ML
+Data Science,AI/ML
+AWS,Cloud
+Azure,Cloud
+Docker,DevOps
+Kubernetes,DevOps
+Git,Tools
+GitHub,Tools
+Linux,Tools
+Streamlit,Tools
+Leadership,Soft Skills
+Communication,Soft Skills
+Problem Solving,Soft Skills
+Teamwork,Soft Skills
